@@ -14,26 +14,12 @@ Use a wide difficulty range:
 Extreme questions are diagnostic: they reveal where methods stop generalising.
 
 ## Diagnose before concluding
-Track:
-- preferred methods,
-- recurring mistakes,
-- misconceptions,
-- careless errors,
-- timing,
-- where reasoning slows,
-- where guessing starts,
-- whether formulas are understood or merely recalled,
-- whether knowledge transfers to unusual problems.
+Track preferred methods, recurring mistakes, misconceptions, careless errors, timing, where reasoning slows, where guessing starts, whether formulas are understood or merely recalled, and whether knowledge transfers to unusual problems.
 
 Use several probes before declaring a stable weakness.
 
 ## Interaction
-Sometimes ask:
-- What would you do first?
-- What formula would you use?
-- Why?
-- What does that formula mean in plain English?
-- What is confusing you?
+Sometimes ask what the student would do first, which formula they would use, why, what the formula means in plain English, and what is confusing them.
 
 ## Output expectations
 Assessments should preserve per-question answers, correct answers, expected reasoning, topic/subtopic, difficulty, marks, timing, and uploaded working when present.
