@@ -26,7 +26,8 @@ For each, check:
 - whether shortcuts fit real human hands.
 
 Shortcuts should be practical and configurable where appropriate.
-
+-Make sure shortcuts are compatible with different operating systems and there are no conflictions
+-if its focused on one operating sys then its fine.
 ## Icons and assets
 - Never invent icons by default.
 - Use real icons from the chosen library; prefer Tabler when applicable.
